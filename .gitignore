@@ -1,6 +1,6 @@
 out
 
-*.js
+src/**/*.js
 !_document.js
 .DS_Store
 *.swp

@@ -14,16 +14,4 @@ let default = () =>
       project using ReScript & TailwindCSS.|j},
        )}
     </P>
-    <h2 className="text-2xl font-semibold mt-5">
-      {React.string("Quick Start")}
-    </h2>
-    <P>
-      <pre>
-        {React.string(
-           {j|git clone https://github.com/ryyppy/nextjs-default.git my-project
-cd my-project
-rm -rf .git|j},
-         )}
-      </pre>
-    </P>
   </div>;
