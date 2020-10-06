@@ -1,3 +1,5 @@
+> forked from https://github.com/ryyppy/rescript-nextjs-template
+
 # ReScript NextJS Starter
 
 This is a NextJS based template with following setup:
